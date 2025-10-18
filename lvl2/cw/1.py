@@ -4,10 +4,10 @@ print(10.2)
 
 name = 'Gio'
 age = 13
-favorite,food = "Kitri"
+favoritefood = "Kitri"
 favoritecolor = 'black'
 
 print(name)
 print(age)
-print(favorite,food)
+print(favoritefood)
 print(favoritecolor)
